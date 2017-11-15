@@ -5,3 +5,11 @@ class Scooter{
     this.model = model;
   }
 }
+
+class Driver{
+  constructor(name, age, experience){
+    this.name
+    this.age
+    this.experience
+  }
+}
