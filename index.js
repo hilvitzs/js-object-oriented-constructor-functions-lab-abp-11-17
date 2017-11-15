@@ -1,3 +1,5 @@
 class Scooter{
-  
+  constructor(year, ){
+
+  }
 }
