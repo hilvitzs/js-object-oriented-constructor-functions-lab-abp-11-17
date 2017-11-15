@@ -8,8 +8,8 @@ class Scooter{
 
 class Driver{
   constructor(name, age, experience){
-    this.name
-    this.age
-    this.experience
+    this.name = name;
+    this.age = age;
+    this.experience = experience;
   }
 }
